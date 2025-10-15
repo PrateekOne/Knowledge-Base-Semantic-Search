@@ -2,6 +2,12 @@
 ### Two-Stage Hybrid Retrieval + LLM-Based Question Answering  
 
 This repository implements a **two-step knowledge-base semantic search pipeline** that combines **BM25 sparse retrieval** and **SentenceTransformer dense embeddings** for accurate document chunk retrieval. The retrieved chunks are then passed to **FLAN-T5** for concise, context-aware answer synthesis.
+---
+
+## 🎥 Demo Video
+
+Watch a full walkthrough of the project and accuracy test here:  
+👉 [**View Demo Video on Google Drive**](https://drive.google.com/file/d/1sukXq7I3zk3sgkS3F5y9EE_zs0DAgHOm/)
 
 ---
 
